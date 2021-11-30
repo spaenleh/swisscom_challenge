@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.idea/
+.env
+data/
+maps/
+__pycache__/
+.DS_Store
+*.gif
+*.pdf
+/Districts.ipynb
+/Untitled.ipynb
